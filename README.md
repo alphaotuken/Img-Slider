@@ -1,27 +1,16 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pure-js-slider)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pure-js-slider?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pure-js-slider?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/NNQuhOeM0mI?style=social)](https://youtu.be/NNQuhOeM0mI)
 
   <br />
   <br />
 
   <h2 align="center">Pure JavaScript Slider</h2>
 
-  A fully responsive and functional vanilla js slider, <br />Responsive for all devices, build using HTML, CSS, and vanilla JavaScript.
+  A complete and adaptable vanilla JavaScript slider that is both responsive and fully functional, <br />This slider is designed to be responsive on all devices and is created using HTML, CSS, and vanilla JavaScript.
 
   <a href="https://codewithsadee.github.io/pure-js-slider/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
-
-### Demo Screeshots
-
-![Pure Js Slider Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,23 +20,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **pure-js-slider** locally, run this command on your git bash:
+To run **Img-Slider** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/pure-js-slider.git
+sudo git clone https://github.com/alphaotuken/Img-Slider.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/pure-js-slider.git
+git clone https://github.com/alphaotuken/Img-Slider.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
 
 ### License
 
