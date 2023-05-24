@@ -1,7 +1,3 @@
-
-  <br />
-  <br />
-
   <h1 align="center">Pure JavaScript Slider</h1>
 
   A complete and adaptable vanilla JavaScript slider that is both responsive and fully functional, <br />This slider is designed to be responsive on all devices and is created using HTML, CSS, and vanilla JavaScript.
